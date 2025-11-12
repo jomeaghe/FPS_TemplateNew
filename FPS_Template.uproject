@@ -8,5 +8,15 @@
 			"Name": "SimpleNarrativeSystem",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Linux",
+		"LinuxArm64",
+		"Mac",
+		"TVOS",
+		"VisionOS",
+		"Windows"
 	]
 }
